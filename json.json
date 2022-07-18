@@ -1,0 +1,3930 @@
+[{
+        "id": "oma_95722fc0-8954-5c02-be4d-c2bb04c1e84c",
+        "timestamp": "2022-06-10T14:27:34.167Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785599334",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1403234",
+            "driverName": "Yoseef Raafat Geyoshy_JASSON",
+            "pickupTime": "2022-06-10T15:00:50.071Z",
+            "dispatchedAt": "2022-06-10T15:22:28.306Z",
+            "deliveredAt": "2022-06-10T15:53:19.270Z"
+        },
+        "seenAt": "2022-06-10T14:48:50.887Z",
+        "deliverAt": "2022-06-10T15:19:34.033Z",
+        "expiresAt": "2022-06-10T14:56:50.211Z",
+        "promisedTime": "2022-06-10T15:19:34.033Z",
+        "acceptedAt": "2022-06-10T14:50:49.799Z",
+        "customer": {
+            "customerId": "16014624",
+            "phone": "+201006246805",
+            "firstName": "Sabry Abdel-Latif",
+            "lastName": "unknown"
+        },
+        "address": {
+            "street": "اسم الشارع: عمر إبن العاص ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - المطبعة",
+            "floor": "رقم الدور: 5 ",
+            "apartment": "رقم الشقة: 10",
+            "building": "اسم أو رقم البناية: 2 شارع الدمياطي  من عمرو بن العاص . المطبعة فيصل ",
+            "info": "علامة مميزة: فوق مقلة ابوالهول قبل مدرسة عمرو بن العاص علي اليمين ",
+            "latitude": 30.0060042744848,
+            "longitude": 31.1666649207473,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 128.49,
+            "itemsTotalPrice": 156.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 116.00000000000001,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 6,
+            "name": "Lemon Mint Icecream Roll",
+            "price": 26.0,
+            "total": 156.0,
+            "productId": "167865903",
+            "modifiable": false,
+            "orderItemId": "1981686414",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            }
+        ],
+        "discounts": [{
+            "name": "Discount",
+            "value": -40.0
+        }],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T15:19:34.033Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9122",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_bc2825ba-4378-53de-b41d-7ab2af28deb7",
+        "timestamp": "2022-06-10T15:02:17.607Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785637377",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1403234",
+            "driverName": "Yoseef Raafat Geyoshy_JASSON",
+            "pickupTime": "2022-06-10T15:16:19.442Z",
+            "dispatchedAt": "2022-06-10T15:22:33.454Z",
+            "deliveredAt": "2022-06-10T15:42:15.038Z"
+        },
+        "seenAt": "2022-06-10T15:04:20.227Z",
+        "deliverAt": "2022-06-10T15:50:17.485Z",
+        "expiresAt": "2022-06-10T15:12:19.575Z",
+        "promisedTime": "2022-06-10T15:50:17.485Z",
+        "acceptedAt": "2022-06-10T15:04:28.858Z",
+        "customer": {
+            "customerId": "10273923",
+            "phone": "+201152621816",
+            "firstName": "Hussein",
+            "lastName": "Mohamed"
+        },
+        "address": {
+            "street": "اسم الشارع: ابراهيم عبدالرحيم  ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - التعاون",
+            "floor": "رقم الدور: 4 ",
+            "apartment": "رقم الشقة: 9",
+            "building": "اسم أو رقم البناية: برج الكريم امام مدرسة النور  ",
+            "info": "علامة مميزة: متفرع من شارع المنشية عند مكتبه الفجالة تاني شمال علي ناسيه صيدليه عبد الرحمن عند مدرسه النور الخاصة  ",
+            "latitude": 30.003551,
+            "longitude": 31.159698,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 130.49,
+            "itemsTotalPrice": 118.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 118.00000000000001,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 2,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                        "amount": 1,
+                        "name": "Medium",
+                        "price": 33.0,
+                        "total": 33.0,
+                        "productId": "107599907",
+                        "modifiable": false,
+                        "type": "EXTRA"
+                    },
+                    {
+                        "amount": 1,
+                        "name": "Caramel",
+                        "price": 8.0,
+                        "total": 8.0,
+                        "productId": "109574135",
+                        "modifiable": false,
+                        "type": "EXTRA"
+                    }
+                ],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1981782082",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Lotus Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 36.0,
+                    "total": 36.0,
+                    "productId": "277917790",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "264374957",
+                "modifiable": false,
+                "orderItemId": "1981782083",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9123",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_55a6e9dc-5d19-54e3-8733-4d8dd27d7e67",
+        "timestamp": "2022-06-10T15:58:36.308Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785703835",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1239980",
+            "driverName": "Amr Adel Ali Elsayed_MTA",
+            "pickupTime": "2022-06-10T16:17:52.072Z",
+            "dispatchedAt": "2022-06-10T16:20:01.608Z",
+            "deliveredAt": "2022-06-10T16:32:21.723Z"
+        },
+        "seenAt": "2022-06-10T16:05:53.467Z",
+        "deliverAt": "2022-06-10T16:50:36.182Z",
+        "expiresAt": "2022-06-10T16:13:52.253Z",
+        "promisedTime": "2022-06-10T16:50:36.182Z",
+        "acceptedAt": "2022-06-10T16:06:09.118Z",
+        "customer": {
+            "customerId": "21348485",
+            "phone": "+201033404908",
+            "firstName": "omar",
+            "lastName": "desouky"
+        },
+        "address": {
+            "street": "اسم الشارع: حسن محمد ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - الطالبيه",
+            "floor": "رقم الدور: 5 ",
+            "apartment": "رقم الشقة: 502",
+            "building": "اسم أو رقم البناية: أ ",
+            "info": "علامة مميزة: ١٩ شارع حسن محمد ناصية سنترال الهرم امام كايرو مول ابراج الزهور برج أ الدور الخامس شقة 502 بجوار سوبر ماركت كازيون فوق فططري السروجي وكوافير محمد للرجال .. ",
+            "latitude": 30.0016328180334,
+            "longitude": 31.1719924584031,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": true,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 111.49,
+            "itemsTotalPrice": 99.0,
+            "paymentType": "ONLINE",
+            "paymentMethod": "CREDIT_CARD",
+            "riderPaysAtRestaurant": 0.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 2,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "107599907",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1981950099",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "White Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "108976613",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599912",
+                "modifiable": false,
+                "orderItemId": "1981950102",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9124",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_98c3f6c5-5f1f-539e-9c76-694df92d5338",
+        "timestamp": "2022-06-10T16:07:53.506Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785716223",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1147277",
+            "driverName": "ahmad salumuh abarahim_JASSON",
+            "pickupTime": "2022-06-10T16:25:20.543Z",
+            "dispatchedAt": "2022-06-10T16:29:24.578Z",
+            "deliveredAt": "2022-06-10T16:43:17.376Z"
+        },
+        "seenAt": "2022-06-10T16:17:21.335Z",
+        "deliverAt": "2022-06-10T16:45:31.869Z",
+        "expiresAt": "2022-06-10T16:25:20.691Z",
+        "promisedTime": "2022-06-10T16:39:53.353Z",
+        "acceptedAt": "2022-06-10T16:17:31.283Z",
+        "customer": {
+            "customerId": "21757555",
+            "phone": "+201095145240",
+            "firstName": "Sedra",
+            "lastName": "Barakat"
+        },
+        "address": {
+            "street": "اسم الشارع: Al Mansoureya Road ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - المنصوريه",
+            "floor": "رقم الدور: 4 ",
+            "apartment": "رقم الشقة: 406",
+            "building": "اسم أو رقم البناية: banorama ",
+            "latitude": 29.987743,
+            "longitude": 31.141281,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 40.48,
+            "itemsTotalPrice": 33.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 32.99999999999999,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": "Nutella Chocolate Waffle",
+            "price": 0.0,
+            "total": 0.0,
+            "modifiers": [{
+                "amount": 1,
+                "name": "Medium",
+                "price": 33.0,
+                "total": 33.0,
+                "productId": "107599907",
+                "modifiable": false,
+                "type": "EXTRA"
+            }],
+            "productId": "107599906",
+            "modifiable": false,
+            "orderItemId": "1981980914",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 4.99
+            },
+            {
+                "name": "Service Fee",
+                "value": 2.49
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T16:39:53.353Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9125",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_52f36176-760f-5db7-a2d9-5009c338943a",
+        "timestamp": "2022-06-10T16:25:38.069Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785740176",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1179461",
+            "driverName": "Mohamed Emad Mohamed Mohamed_MASTER LINE",
+            "pickupTime": "2022-06-10T16:48:51.341Z",
+            "dispatchedAt": "2022-06-10T16:56:07.901Z",
+            "deliveredAt": "2022-06-10T17:07:42.544Z"
+        },
+        "seenAt": "2022-06-10T16:33:52.116Z",
+        "deliverAt": "2022-06-10T17:10:37.941Z",
+        "expiresAt": "2022-06-10T16:41:51.468Z",
+        "promisedTime": "2022-06-10T17:10:37.941Z",
+        "acceptedAt": "2022-06-10T16:34:05.996Z",
+        "customer": {
+            "customerId": "10470967",
+            "phone": "+201092740058",
+            "firstName": "Heba",
+            "lastName": "Assem"
+        },
+        "address": {
+            "street": "اسم الشارع: Selim ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - كوم بكار",
+            "floor": "رقم الدور: الدور الاول ",
+            "apartment": "رقم الشقة: 3",
+            "building": "اسم أو رقم البناية: 72 ",
+            "info": "علامة مميزة: بجوار مسجد الفتح وعطارة البركة ",
+            "latitude": 29.997065171988,
+            "longitude": 31.1361876502633,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": true,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 237.49,
+            "itemsTotalPrice": 225.0,
+            "paymentType": "ONLINE",
+            "paymentMethod": "CREDIT_CARD",
+            "riderPaysAtRestaurant": 0.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Vanilla Milkshake",
+                "price": 33.0,
+                "total": 33.0,
+                "productId": "107601879",
+                "modifiable": false,
+                "orderItemId": "1982041361",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "White Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                        "amount": 1,
+                        "name": "Medium",
+                        "price": 33.0,
+                        "total": 33.0,
+                        "productId": "108976613",
+                        "modifiable": false,
+                        "type": "EXTRA"
+                    },
+                    {
+                        "amount": 1,
+                        "name": "Strawberry Sauce",
+                        "price": 8.0,
+                        "total": 8.0,
+                        "productId": "109576129",
+                        "modifiable": false,
+                        "type": "EXTRA"
+                    }
+                ],
+                "productId": "107599912",
+                "modifiable": false,
+                "orderItemId": "1982041362",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 2,
+                "name": "Berry Cheesecake",
+                "price": 48.0,
+                "total": 96.0,
+                "productId": "109670150",
+                "modifiable": false,
+                "orderItemId": "1982041363",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Dark Chocolate Molten Cake",
+                "price": 44.0,
+                "total": 44.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Ice Cream",
+                    "price": 11.0,
+                    "total": 11.0,
+                    "productId": "109007545",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "109007542",
+                "modifiable": false,
+                "orderItemId": "1982041364",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9126",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_c2c8bbfe-541f-52ec-8e64-1523fed84ebe",
+        "timestamp": "2022-06-10T16:36:22.744Z",
+        "state": "CANCELLED_BY_PLATFORM",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785754781",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "pickupTime": "2022-06-10T17:09:23.002Z"
+        },
+        "deliverAt": "2022-06-10T17:33:22.604Z",
+        "expiresAt": "2022-06-10T19:33:22.604Z",
+        "promisedTime": "2022-06-10T17:33:22.604Z",
+        "customer": {
+            "customerId": "12218274",
+            "phone": "+201111156323",
+            "firstName": "abdalah",
+            "lastName": "said"
+        },
+        "address": {
+            "street": "اسم الشارع: مسجد ابو الخير  ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - اول فيصل",
+            "floor": "رقم الدور: 6 ",
+            "apartment": "رقم الشقة: 6",
+            "building": "اسم أو رقم البناية: 26 ",
+            "info": "علامة مميزة: علي ناصية الشارع etoile ",
+            "latitude": 30.012957,
+            "longitude": 31.192812,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 93.71,
+            "itemsTotalPrice": 84.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 84.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Lotus Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 36.0,
+                    "total": 36.0,
+                    "productId": "277917790",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "264374957",
+                "modifiable": false,
+                "orderItemId": "1982078658",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "White Chocolate Casserole",
+                "price": 48.0,
+                "total": 48.0,
+                "productId": "108984582",
+                "modifiable": false,
+                "orderItemId": "1982078659",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 6.72
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 2.99
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "cancelReason": {
+            "custom": false,
+            "comment": "MISTAKE_ERROR",
+            "time": "2022-06-10T16:41:27.156Z",
+            "key": "MISTAKE_ERROR"
+        },
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9127",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "cancellationOwner": "CUSTOMER",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_4a08d016-4123-51bd-941f-f9914ad2fd02",
+        "timestamp": "2022-06-10T17:12:28.095Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785805933",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1466090",
+            "driverName": "Shehab Ahmed adel Ahmed _ EL DAWLYA",
+            "pickupTime": "2022-06-10T17:27:51.309Z",
+            "dispatchedAt": "2022-06-10T17:41:34.656Z",
+            "deliveredAt": "2022-06-10T18:58:01.341Z"
+        },
+        "seenAt": "2022-06-10T17:13:52.206Z",
+        "deliverAt": "2022-06-10T18:09:42.377Z",
+        "expiresAt": "2022-06-10T17:21:51.511Z",
+        "promisedTime": "2022-06-10T17:55:27.965Z",
+        "acceptedAt": "2022-06-10T17:14:09.630Z",
+        "customer": {
+            "customerId": "10571856",
+            "phone": "+201145928566",
+            "firstName": "Mohamed",
+            "lastName": "Karam"
+        },
+        "address": {
+            "street": "اسم الشارع: الدكتور لاشين ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - المريوطية",
+            "floor": "رقم الدور: ٥ ",
+            "apartment": "رقم الشقة: ٣٣",
+            "building": "اسم أو رقم البناية: برج الجزيره ",
+            "info": "علامة مميزة: اول شارع الدكتور لاشين ",
+            "latitude": 29.996581,
+            "longitude": 31.14581,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 195.49,
+            "itemsTotalPrice": 183.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 183.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Caramel Ice Cream Rolls",
+                "comment": "صوص كراميل",
+                "price": 30.0,
+                "total": 30.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Sauce",
+                    "price": 4.0,
+                    "total": 4.0,
+                    "productId": "108179649",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107601920",
+                "modifiable": false,
+                "orderItemId": "1982208174",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Cinnabon Ice Cream Rolls",
+                "price": 34.0,
+                "total": 34.0,
+                "productId": "107601921",
+                "modifiable": false,
+                "orderItemId": "1982208175",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Kinder Chocolate Ice Cream Rolls",
+                "price": 36.0,
+                "total": 36.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Sauce",
+                    "price": 4.0,
+                    "total": 4.0,
+                    "productId": "108179701",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107601907",
+                "modifiable": false,
+                "orderItemId": "1982208176",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Black Waffle ",
+                "comment": "وايت شوكلت",
+                "price": 75.0,
+                "total": 75.0,
+                "productId": "108984608",
+                "modifiable": false,
+                "orderItemId": "1982208178",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T17:55:27.965Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9128",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_bc9f44c4-6f59-5041-bfd8-baae784200ae",
+        "timestamp": "2022-06-10T17:13:23.924Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785807360",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1466090",
+            "driverName": "Shehab Ahmed adel Ahmed _ EL DAWLYA",
+            "pickupTime": "2022-06-10T17:34:21.959Z",
+            "dispatchedAt": "2022-06-10T17:41:44.109Z",
+            "deliveredAt": "2022-06-10T17:58:27.582Z"
+        },
+        "seenAt": "2022-06-10T17:24:22.795Z",
+        "deliverAt": "2022-06-10T17:48:23.788Z",
+        "expiresAt": "2022-06-10T17:32:22.097Z",
+        "promisedTime": "2022-06-10T17:48:23.788Z",
+        "acceptedAt": "2022-06-10T17:24:30.381Z",
+        "customer": {
+            "customerId": "10044422",
+            "phone": "+201144119959",
+            "firstName": "Ashraf",
+            "lastName": "Ibrahim "
+        },
+        "address": {
+            "street": "اسم الشارع: Al Haram ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - المنصوريه",
+            "floor": "رقم الدور: 1 ",
+            "apartment": "رقم الشقة: 114",
+            "building": "اسم أو رقم البناية: 42 ",
+            "info": "علامة مميزة: مدخل بنك عودة ",
+            "latitude": 29.988914,
+            "longitude": 31.146124,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 69.49,
+            "itemsTotalPrice": 57.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 56.99999999999999,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": " Beej Waffle",
+            "price": 57.0,
+            "total": 57.0,
+            "productId": "943851463",
+            "modifiable": false,
+            "orderItemId": "1982211771",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T17:48:23.788Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9129",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_822ea81e-42d0-5742-9467-2d94a0c18e67",
+        "timestamp": "2022-06-10T17:33:59.169Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785837160",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-672961",
+            "driverName": "Ibrahim Mohamed Mohamed Abdelgalil_JASSON",
+            "pickupTime": "2022-06-10T18:13:36.573Z",
+            "dispatchedAt": "2022-06-10T18:26:19.240Z",
+            "deliveredAt": "2022-06-10T19:15:33.718Z"
+        },
+        "seenAt": "2022-06-10T18:01:37.791Z",
+        "deliverAt": "2022-06-10T18:34:59.045Z",
+        "expiresAt": "2022-06-10T18:09:36.941Z",
+        "promisedTime": "2022-06-10T18:34:59.045Z",
+        "acceptedAt": "2022-06-10T18:01:46.609Z",
+        "customer": {
+            "customerId": "25875266",
+            "phone": "+201274750902",
+            "firstName": "nagy",
+            "lastName": "mahmoud"
+        },
+        "address": {
+            "street": "اسم الشارع: Mahmoud Hussein ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - مدينة النور",
+            "floor": "رقم الدور: 7 ",
+            "apartment": "رقم الشقة: 6",
+            "building": "اسم أو رقم البناية: 8 ",
+            "latitude": 30.0089140200367,
+            "longitude": 31.1479732766748,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 57.0,
+            "itemsTotalPrice": 107.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 57.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Nutella Chocolate Molten Cake",
+                "price": 44.0,
+                "total": 44.0,
+                "productId": "109007540",
+                "modifiable": false,
+                "orderItemId": "1982287485",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Large",
+                    "price": 63.0,
+                    "total": 63.0,
+                    "productId": "107599908",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1982287486",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            }
+        ],
+        "discounts": [{
+            "name": "Discount",
+            "value": -50.0
+        }],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T18:34:59.045Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9130",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_5c828ded-8892-59f3-bf97-bb07bd31640a",
+        "timestamp": "2022-06-10T17:40:09.831Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785846285",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1339202",
+            "driverName": "Eassm AbdelNaBy fasal _ TOP",
+            "pickupTime": "2022-06-10T17:51:51.845Z",
+            "dispatchedAt": "2022-06-10T17:52:57.349Z",
+            "deliveredAt": "2022-06-10T17:59:09.863Z"
+        },
+        "seenAt": "2022-06-10T17:43:52.833Z",
+        "deliverAt": "2022-06-10T18:16:09.684Z",
+        "expiresAt": "2022-06-10T17:51:52.132Z",
+        "promisedTime": "2022-06-10T18:16:09.684Z",
+        "acceptedAt": "2022-06-10T17:43:59.604Z",
+        "customer": {
+            "customerId": "12669646",
+            "phone": "+201550808447",
+            "firstName": "Abdelrahman ",
+            "lastName": "sheriif"
+        },
+        "address": {
+            "street": "اسم الشارع: ترعة السيسي ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - مشعل",
+            "floor": "رقم الدور: 2 ",
+            "apartment": "رقم الشقة: 6",
+            "building": "اسم أو رقم البناية: برج النخيل ",
+            "latitude": 29.986597,
+            "longitude": 31.149105,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 24.67,
+            "itemsTotalPrice": 34.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 19.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": "Blueberry Yogurt Ice Cream Rolls",
+            "price": 34.0,
+            "total": 34.0,
+            "productId": "107601903",
+            "modifiable": false,
+            "orderItemId": "1982311335",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 4.99
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.68
+            }
+        ],
+        "discounts": [{
+            "name": "Discount",
+            "value": -15.0
+        }],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9131",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_ddd9f20b-dae6-5535-9f69-542349e50a5d",
+        "timestamp": "2022-06-10T17:54:36.992Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785867512",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-672961",
+            "driverName": "Ibrahim Mohamed Mohamed Abdelgalil_JASSON",
+            "pickupTime": "2022-06-10T18:17:47.474Z",
+            "dispatchedAt": "2022-06-10T18:26:14.634Z",
+            "deliveredAt": "2022-06-10T18:43:35.823Z"
+        },
+        "seenAt": "2022-06-10T18:04:48.447Z",
+        "deliverAt": "2022-06-10T18:45:36.828Z",
+        "expiresAt": "2022-06-10T18:12:47.677Z",
+        "promisedTime": "2022-06-10T18:45:36.828Z",
+        "acceptedAt": "2022-06-10T18:04:59.705Z",
+        "customer": {
+            "customerId": "12734856",
+            "phone": "+201101003005",
+            "firstName": "Nahed",
+            "lastName": "Alhadidi"
+        },
+        "address": {
+            "street": "اسم الشارع: أبو عجيله ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - ترسا",
+            "floor": "رقم الدور: ٣ ",
+            "apartment": "رقم الشقة: ٨",
+            "building": "اسم أو رقم البناية: ١ ",
+            "latitude": 29.989072229349,
+            "longitude": 31.1650928109884,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 138.49,
+            "itemsTotalPrice": 126.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 126.00000000000001,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 3,
+                "name": "Mango Konafa ",
+                "price": 32.0,
+                "total": 96.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Cup",
+                    "price": 0.0,
+                    "total": 0.0,
+                    "productId": "874698812",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "346239439",
+                "modifiable": false,
+                "orderItemId": "1982365765",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Peach Smoothie",
+                "price": 30.0,
+                "total": 30.0,
+                "productId": "196189496",
+                "modifiable": false,
+                "orderItemId": "1982365766",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9132",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_eb7c9e9c-24a9-5b54-ac42-c214ab2a487c",
+        "timestamp": "2022-06-10T18:36:24.862Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785926058",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1466090",
+            "driverName": "Shehab Ahmed adel Ahmed _ EL DAWLYA",
+            "pickupTime": "2022-06-10T19:10:02.956Z",
+            "dispatchedAt": "2022-06-10T19:18:29.086Z",
+            "deliveredAt": "2022-06-10T19:34:38.380Z"
+        },
+        "seenAt": "2022-06-10T18:58:03.753Z",
+        "deliverAt": "2022-06-10T19:22:24.737Z",
+        "expiresAt": "2022-06-10T19:06:03.075Z",
+        "promisedTime": "2022-06-10T19:22:24.737Z",
+        "acceptedAt": "2022-06-10T18:58:39.349Z",
+        "customer": {
+            "customerId": "12014125",
+            "phone": "+201062950074",
+            "firstName": "Hoda",
+            "lastName": "Magdii"
+        },
+        "address": {
+            "street": "اسم الشارع: محمود عارف ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - كعبيش‎",
+            "floor": "رقم الدور: 6 ",
+            "apartment": "رقم الشقة: 10",
+            "building": "اسم أو رقم البناية: 30 ",
+            "latitude": 30.0018116752374,
+            "longitude": 31.1460588499904,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 59.489999999999995,
+            "itemsTotalPrice": 90.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 49.99999999999999,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "107599907",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1982513905",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Lotus Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 36.0,
+                    "total": 36.0,
+                    "productId": "277917790",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "264374957",
+                "modifiable": false,
+                "orderItemId": "1982513908",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Vanilla Ice Cream",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "2 Scoop",
+                    "price": 21.0,
+                    "total": 21.0,
+                    "productId": "109007522",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107601939",
+                "modifiable": false,
+                "orderItemId": "1982513912",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 4.5
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 4.99
+            }
+        ],
+        "discounts": [{
+            "name": "Discount",
+            "value": -40.0
+        }],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T19:22:24.737Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9133",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_5c81c30d-0443-5f97-afa0-bb9f48781c0a",
+        "timestamp": "2022-06-10T18:44:16.028Z",
+        "state": "CANCELLED_BY_PLATFORM",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785936247",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1260407",
+            "driverName": "Sabry Mahmoud Saleh_TOP",
+            "pickupTime": "2022-06-10T19:19:39.430Z",
+            "dispatchedAt": "2022-06-10T19:32:45.030Z",
+            "deliveredAt": "2022-06-10T19:57:10.975Z"
+        },
+        "seenAt": "2022-06-10T19:06:48.137Z",
+        "deliverAt": "2022-06-10T19:43:15.879Z",
+        "expiresAt": "2022-06-10T19:14:39.569Z",
+        "promisedTime": "2022-06-10T19:43:15.879Z",
+        "acceptedAt": "2022-06-10T19:06:56.239Z",
+        "customer": {
+            "customerId": "11150269",
+            "phone": "+201067699363",
+            "firstName": "Dody",
+            "lastName": "Goda"
+        },
+        "address": {
+            "street": "اسم الشارع: شارع الملك فيصل ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - الطالبيه",
+            "floor": "رقم الدور: ٤ ",
+            "apartment": "رقم الشقة: ٢٥",
+            "building": "اسم أو رقم البناية: ٣٣٩ ",
+            "info": "علامة مميزة: بجوار عنتر الكباجي حسن محمد ",
+            "latitude": 30.0033252704542,
+            "longitude": 31.1730002984405,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 130.49,
+            "itemsTotalPrice": 118.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 118.00000000000001,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Jelly Cola Ce Cream Rolls",
+                "price": 30.0,
+                "total": 30.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Sauce",
+                    "price": 4.0,
+                    "total": 4.0,
+                    "productId": "108179737",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107601917",
+                "modifiable": false,
+                "orderItemId": "1982539983",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Kinder Chocolate Ice Cream Rolls",
+                "price": 36.0,
+                "total": 36.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Chocolate Chips",
+                    "price": 4.0,
+                    "total": 4.0,
+                    "productId": "108179703",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107601907",
+                "modifiable": false,
+                "orderItemId": "1982539984",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Nutella Chocolate Molten Cake",
+                "price": 44.0,
+                "total": 44.0,
+                "productId": "109007540",
+                "modifiable": false,
+                "orderItemId": "1982539985",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "cancelReason": {
+            "custom": false,
+            "comment": "FOOD_QUALITY_SPILLAGE",
+            "time": "2022-06-10T20:26:56.331Z",
+            "key": "FOOD_QUALITY_SPILLAGE"
+        },
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9134",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "cancellationOwner": "TRANSPORT",
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_4152c9ca-bab4-5d1c-90b2-e82ab968c713",
+        "timestamp": "2022-06-10T19:04:57.032Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785962340",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1359851",
+            "driverName": "Ibrahim Ahmed Mohamed Ibrahim _EL ABTAL",
+            "pickupTime": "2022-06-10T19:24:51.225Z",
+            "dispatchedAt": "2022-06-10T19:40:08.046Z",
+            "deliveredAt": "2022-06-10T19:44:58.099Z"
+        },
+        "seenAt": "2022-06-10T19:12:52.134Z",
+        "deliverAt": "2022-06-10T19:41:56.893Z",
+        "expiresAt": "2022-06-10T19:20:51.424Z",
+        "promisedTime": "2022-06-10T19:41:56.893Z",
+        "acceptedAt": "2022-06-10T19:12:57.086Z",
+        "customer": {
+            "customerId": "22027675",
+            "phone": "+201118518198",
+            "firstName": "Adham",
+            "lastName": "Osama"
+        },
+        "address": {
+            "street": "اسم الشارع: المريوطية فيصل ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - المريوطية",
+            "floor": "رقم الدور: 0 ",
+            "apartment": "رقم الشقة: 0",
+            "building": "اسم أو رقم البناية: قهوة الملكة ",
+            "info": "علامة مميزة: بعد اوتوبودي محل العربيات ",
+            "latitude": 29.9949750938612,
+            "longitude": 31.1459555849433,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": true,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 112.49,
+            "itemsTotalPrice": 100.0,
+            "paymentType": "ONLINE",
+            "paymentMethod": "PLATFORM_CREDIT",
+            "riderPaysAtRestaurant": 0.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Gum Ice Cream Rolls",
+                "price": 30.0,
+                "total": 30.0,
+                "productId": "107601918",
+                "modifiable": false,
+                "orderItemId": "1982605391",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Blueberry Yogurt Ice Cream Rolls",
+                "price": 34.0,
+                "total": 34.0,
+                "productId": "107601903",
+                "modifiable": false,
+                "orderItemId": "1982605392",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Kinder Chocolate Ice Cream Rolls",
+                "price": 36.0,
+                "total": 36.0,
+                "productId": "107601907",
+                "modifiable": false,
+                "orderItemId": "1982605393",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T19:41:56.893Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9135",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_fe751175-7d4e-5e78-8828-b85d98401758",
+        "timestamp": "2022-06-10T19:07:21.649Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785964844",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1260407",
+            "driverName": "Sabry Mahmoud Saleh_TOP",
+            "pickupTime": "2022-06-10T19:19:21.804Z",
+            "dispatchedAt": "2022-06-10T19:32:41.545Z",
+            "deliveredAt": "2022-06-10T19:44:52.917Z"
+        },
+        "seenAt": "2022-06-10T19:09:28.406Z",
+        "deliverAt": "2022-06-10T19:47:21.472Z",
+        "expiresAt": "2022-06-10T19:17:21.974Z",
+        "promisedTime": "2022-06-10T19:47:21.472Z",
+        "acceptedAt": "2022-06-10T19:09:36.023Z",
+        "customer": {
+            "customerId": "18257885",
+            "phone": "+201125839493",
+            "firstName": "Yazen",
+            "lastName": "Ahmed"
+        },
+        "address": {
+            "street": "اسم الشارع: محمد محسن  ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - الطوابق",
+            "floor": "رقم الدور: منزل رقم. 1 ",
+            "apartment": "رقم الشقة: 1",
+            "building": "اسم أو رقم البناية: 3 ",
+            "latitude": 30.0011563478369,
+            "longitude": 31.1576245352626,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 67.49,
+            "itemsTotalPrice": 55.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 54.99999999999999,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": "Chocolate Cinnabon",
+            "price": 55.0,
+            "total": 55.0,
+            "productId": "107599961",
+            "modifiable": false,
+            "orderItemId": "1982611547",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9136",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_aa89ed70-0a88-5850-add1-4202cc1a3f49",
+        "timestamp": "2022-06-10T19:17:08.835Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785976999",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1176725",
+            "driverName": "Sayed Hassan Sayed Hassan_TOP",
+            "pickupTime": "2022-06-10T19:53:56.362Z",
+            "dispatchedAt": "2022-06-10T20:00:16.123Z",
+            "deliveredAt": "2022-06-10T20:28:49.292Z"
+        },
+        "seenAt": "2022-06-10T19:38:58.135Z",
+        "deliverAt": "2022-06-10T20:09:08.704Z",
+        "expiresAt": "2022-06-10T19:46:56.526Z",
+        "promisedTime": "2022-06-10T20:09:08.704Z",
+        "acceptedAt": "2022-06-10T19:39:44.884Z",
+        "customer": {
+            "customerId": "11280045",
+            "phone": "+201125157784",
+            "firstName": "Marim Eshaq",
+            "lastName": "unknown"
+        },
+        "address": {
+            "street": "اسم الشارع: عبدالله الشرقاوى ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - التعاون",
+            "floor": "رقم الدور: ارضى ",
+            "apartment": "رقم الشقة: ١",
+            "building": "اسم أو رقم البناية: ١٤ ",
+            "info": "علامة مميزة: على اول الشارع فى معرض اجهزه كهربائيه اسمه فلوباتير الشارع مقفول من على فيصل ف تلف من شارع اللى ناصيته سقاره يمين ف اول يمين يعنى متفرع من الصفا والمروه ",
+            "latitude": 30.0008238916525,
+            "longitude": 31.1615305021405,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 213.49,
+            "itemsTotalPrice": 201.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 201.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Watermelon Smoothie",
+                "price": 25.0,
+                "total": 25.0,
+                "productId": "107601864",
+                "modifiable": false,
+                "orderItemId": "1982642327",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Mango Smoothie",
+                "price": 28.0,
+                "total": 28.0,
+                "productId": "196188699",
+                "modifiable": false,
+                "orderItemId": "1982642329",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Strawberry Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "108984567",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599924",
+                "modifiable": false,
+                "orderItemId": "1982642330",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Berry Cheesecake",
+                "price": 48.0,
+                "total": 48.0,
+                "productId": "109670150",
+                "modifiable": false,
+                "orderItemId": "1982642331",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Mocha Milkshake ",
+                "price": 35.0,
+                "total": 35.0,
+                "productId": "107601884",
+                "modifiable": false,
+                "orderItemId": "1982642332",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Mango Konafa ",
+                "price": 32.0,
+                "total": 32.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Cup",
+                    "price": 0.0,
+                    "total": 0.0,
+                    "productId": "874698812",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "346239439",
+                "modifiable": false,
+                "orderItemId": "1982642333",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T20:09:08.704Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9137",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_23d0d8ae-75f8-5c0d-8db1-e565aec88282",
+        "timestamp": "2022-06-10T19:33:57.648Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "785996304",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1176725",
+            "driverName": "Sayed Hassan Sayed Hassan_TOP",
+            "pickupTime": "2022-06-10T19:50:56.457Z",
+            "dispatchedAt": "2022-06-10T20:00:19.236Z",
+            "deliveredAt": "2022-06-10T20:10:49.942Z"
+        },
+        "seenAt": "2022-06-10T19:38:58.137Z",
+        "deliverAt": "2022-06-10T20:25:51.000Z",
+        "expiresAt": "2022-06-10T19:46:56.613Z",
+        "promisedTime": "2022-06-10T20:12:57.495Z",
+        "acceptedAt": "2022-06-10T19:39:40.361Z",
+        "customer": {
+            "customerId": "25878513",
+            "phone": "+201050432447",
+            "firstName": "جوجو",
+            "lastName": "حسن"
+        },
+        "address": {
+            "street": "اسم الشارع: عبد السلام عبيد ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - المنصوريه",
+            "floor": "رقم الدور: 10 ",
+            "apartment": "رقم الشقة: 20",
+            "building": "اسم أو رقم البناية: 30 ",
+            "info": "علامة مميزة: سوبر ماركت مكه ",
+            "latitude": 29.9913337578792,
+            "longitude": 31.1456571891904,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 110.97,
+            "itemsTotalPrice": 99.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 99.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "White Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "108976613",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599912",
+                "modifiable": false,
+                "orderItemId": "1982690603",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 2,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "107599907",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1982690605",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 9.99
+            },
+            {
+                "name": "Service Fee",
+                "value": 1.98
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T20:12:57.495Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9138",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_a0c72b62-38ee-5ddf-a905-5f987d173c60",
+        "timestamp": "2022-06-10T19:42:23.199Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786005885",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1047681",
+            "driverName": "Ali Abd Al Halim Shaban  Abd Al Halim_ELTOHAMI",
+            "pickupTime": "2022-06-10T20:24:40.258Z",
+            "dispatchedAt": "2022-06-10T20:46:07.625Z",
+            "deliveredAt": "2022-06-10T21:01:01.205Z"
+        },
+        "seenAt": "2022-06-10T20:15:41.094Z",
+        "deliverAt": "2022-06-10T20:22:23.093Z",
+        "expiresAt": "2022-06-10T20:23:40.417Z",
+        "promisedTime": "2022-06-10T20:22:23.093Z",
+        "acceptedAt": "2022-06-10T20:16:12.495Z",
+        "customer": {
+            "customerId": "12354747",
+            "phone": "+201012989922",
+            "firstName": "Ahmed",
+            "lastName": "Hesham"
+        },
+        "address": {
+            "street": "اسم الشارع: Doctor Lashin ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - الكوم الاخضر",
+            "floor": "رقم الدور: 12 ",
+            "apartment": "رقم الشقة: right apartment",
+            "building": "اسم أو رقم البناية: 7 ",
+            "latitude": 29.9970204555786,
+            "longitude": 31.1486361175776,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 60.49,
+            "itemsTotalPrice": 48.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 48.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": "Nutella Chocolate Casserole  ",
+            "price": 48.0,
+            "total": 48.0,
+            "productId": "108984584",
+            "modifiable": false,
+            "orderItemId": "1982714452",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T20:22:23.093Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9139",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_76354da1-4fee-5a31-838b-8126019a703e",
+        "timestamp": "2022-06-10T20:01:09.502Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786025700",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1047681",
+            "driverName": "Ali Abd Al Halim Shaban  Abd Al Halim_ELTOHAMI",
+            "pickupTime": "2022-06-10T20:27:33.475Z",
+            "dispatchedAt": "2022-06-10T20:46:24.358Z",
+            "deliveredAt": "2022-06-10T20:51:56.335Z"
+        },
+        "seenAt": "2022-06-10T20:15:34.222Z",
+        "deliverAt": "2022-06-10T20:44:35.207Z",
+        "expiresAt": "2022-06-10T20:23:33.579Z",
+        "promisedTime": "2022-06-10T20:39:09.318Z",
+        "acceptedAt": "2022-06-10T20:16:08.014Z",
+        "customer": {
+            "customerId": "22027675",
+            "phone": "+201118518198",
+            "firstName": "Adham",
+            "lastName": "Osama"
+        },
+        "address": {
+            "street": "اسم الشارع: المريوطية فيصل ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - المريوطية",
+            "floor": "رقم الدور: 0 ",
+            "apartment": "رقم الشقة: 0",
+            "building": "اسم أو رقم البناية: قهوة الملكة ",
+            "info": "علامة مميزة: بعد اوتوبودي محل العربيات ",
+            "latitude": 29.9949750938612,
+            "longitude": 31.1459555849433,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": true,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 109.49,
+            "itemsTotalPrice": 97.0,
+            "paymentType": "ONLINE",
+            "paymentMethod": "CREDIT_CARD",
+            "riderPaysAtRestaurant": 0.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Gum Ice Cream Rolls",
+                "price": 30.0,
+                "total": 30.0,
+                "productId": "107601918",
+                "modifiable": false,
+                "orderItemId": "1982763425",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "107599907",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1982763428",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Cotton Candy Ice Cream Roll",
+                "price": 34.0,
+                "total": 34.0,
+                "productId": "109007525",
+                "modifiable": false,
+                "orderItemId": "1982763433",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T20:39:09.318Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9140",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_579b1ffe-780c-5ec6-b5ba-12ebccd3eb10",
+        "timestamp": "2022-06-10T20:05:22.508Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786029403",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1462175",
+            "driverName": "Abdulrahman Mohamed  Mohamed _EL DAWLYA",
+            "pickupTime": "2022-06-10T20:25:02.662Z",
+            "dispatchedAt": "2022-06-10T20:53:26.521Z",
+            "deliveredAt": "2022-06-10T21:12:58.164Z"
+        },
+        "seenAt": "2022-06-10T20:14:03.483Z",
+        "deliverAt": "2022-06-10T20:49:22.376Z",
+        "expiresAt": "2022-06-10T20:22:02.781Z",
+        "promisedTime": "2022-06-10T20:49:22.376Z",
+        "acceptedAt": "2022-06-10T20:14:42.742Z",
+        "customer": {
+            "customerId": "12246175",
+            "phone": "+201115927269",
+            "firstName": "Mostafa",
+            "lastName": "Khaled"
+        },
+        "address": {
+            "street": "اسم الشارع: عبد النعيم ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - الاهرام",
+            "floor": "رقم الدور: 2 ",
+            "apartment": "رقم الشقة: 1",
+            "building": "اسم أو رقم البناية: برج مهند ",
+            "info": "علامة مميزة: امام مستشفي الهرم - البرج بجوار فكهاني اولاد الشيخ ",
+            "latitude": 29.9882393884523,
+            "longitude": 31.1526091396809,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 90.49,
+            "itemsTotalPrice": 78.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 78.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Mix Casserole  ",
+                "price": 48.0,
+                "total": 48.0,
+                "productId": "108984583",
+                "modifiable": false,
+                "orderItemId": "1982772800",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Watermelon Ice Cream Rolls",
+                "price": 30.0,
+                "total": 30.0,
+                "productId": "107601896",
+                "modifiable": false,
+                "orderItemId": "1982772801",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T20:49:22.376Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9141",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_f53b5fb7-072a-5b4d-94a9-72c70b2b14ce",
+        "timestamp": "2022-06-10T20:20:50.182Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786044866",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1289878",
+            "driverName": "Abdelrahman Mohamed Hamed_JASSON",
+            "pickupTime": "2022-06-10T20:41:03.106Z",
+            "dispatchedAt": "2022-06-10T20:52:22.236Z",
+            "deliveredAt": "2022-06-10T21:02:42.939Z"
+        },
+        "seenAt": "2022-06-10T20:29:04.048Z",
+        "deliverAt": "2022-06-10T21:05:50.073Z",
+        "expiresAt": "2022-06-10T20:37:03.273Z",
+        "promisedTime": "2022-06-10T21:05:50.073Z",
+        "acceptedAt": "2022-06-10T20:29:11.428Z",
+        "customer": {
+            "customerId": "10018246",
+            "phone": "+201009000927",
+            "firstName": "Fatma",
+            "lastName": "Abou-Zeid"
+        },
+        "address": {
+            "street": "اسم الشارع: El-Zohour ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - الرمايه",
+            "floor": "رقم الدور: 2 ",
+            "apartment": "رقم الشقة: 2",
+            "building": "اسم أو رقم البناية: 13 ",
+            "latitude": 29.986794,
+            "longitude": 31.13506,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": true,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 188.75,
+            "itemsTotalPrice": 172.0,
+            "paymentType": "ONLINE",
+            "paymentMethod": "PLATFORM_CREDIT",
+            "riderPaysAtRestaurant": 0.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 4,
+            "name": "Oreo Juice",
+            "price": 43.0,
+            "total": 172.0,
+            "productId": "107601874",
+            "modifiable": false,
+            "orderItemId": "1982810844",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Service Fee",
+                "value": 13.76
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 2.99
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9142",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_d7b55e7c-1aa6-5cdd-99e3-7581cd595d69",
+        "timestamp": "2022-06-10T20:26:15.608Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786049948",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1462175",
+            "driverName": "Abdulrahman Mohamed  Mohamed _EL DAWLYA",
+            "pickupTime": "2022-06-10T20:38:50.705Z",
+            "dispatchedAt": "2022-06-10T20:53:30.271Z",
+            "deliveredAt": "2022-06-10T21:25:00.831Z"
+        },
+        "seenAt": "2022-06-10T20:27:51.528Z",
+        "deliverAt": "2022-06-10T21:19:49.000Z",
+        "expiresAt": "2022-06-10T20:35:50.844Z",
+        "promisedTime": "2022-06-10T21:14:15.441Z",
+        "acceptedAt": "2022-06-10T20:28:04.065Z",
+        "customer": {
+            "customerId": "15560158",
+            "phone": "+201004984341",
+            "firstName": "Mariam Ekramy",
+            "lastName": "unknown"
+        },
+        "address": {
+            "street": "اسم الشارع: El-Shaheed Zakareya ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - ترسا",
+            "floor": "رقم الدور: 4 ",
+            "apartment": "رقم الشقة: on the left",
+            "building": "اسم أو رقم البناية: 19 ",
+            "latitude": 29.9871120801276,
+            "longitude": 31.1560993641615,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 100.49,
+            "itemsTotalPrice": 88.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 88.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Brown Waffle",
+                "price": 54.0,
+                "total": 54.0,
+                "productId": "108984606",
+                "modifiable": false,
+                "orderItemId": "1982823584",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Gum Ice Cream Rolls",
+                "price": 30.0,
+                "total": 30.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Chocolate Chips",
+                    "price": 4.0,
+                    "total": 4.0,
+                    "productId": "108179743",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107601918",
+                "modifiable": false,
+                "orderItemId": "1982823586",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T21:14:15.441Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9143",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_1399dfbc-ac57-5469-a301-70aa951527d5",
+        "timestamp": "2022-06-10T21:45:43.821Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786112752",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1453673",
+            "driverName": "Ahmed Khaled Ahmed Owais _ TOP",
+            "pickupTime": "2022-06-10T22:18:14.542Z",
+            "dispatchedAt": "2022-06-10T22:18:41.513Z",
+            "deliveredAt": "2022-06-10T22:33:02.099Z"
+        },
+        "seenAt": "2022-06-10T22:06:15.376Z",
+        "deliverAt": "2022-06-10T22:29:43.664Z",
+        "expiresAt": "2022-06-10T22:14:14.682Z",
+        "promisedTime": "2022-06-10T22:29:43.664Z",
+        "acceptedAt": "2022-06-10T22:06:26.228Z",
+        "customer": {
+            "customerId": "25267088",
+            "phone": "+201000660329",
+            "firstName": "Aly",
+            "lastName": "Sharaf"
+        },
+        "address": {
+            "street": "اسم الشارع: شارع الشمس ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - الرمايه",
+            "floor": "رقم الدور: رقم 20أ ",
+            "apartment": "رقم الشقة: الدور الرابع 401",
+            "building": "اسم أو رقم البناية: 20A عمارات الشمس خلف فندق مينا هاوس ",
+            "latitude": 29.9884827366892,
+            "longitude": 31.1340284720063,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 105.97,
+            "itemsTotalPrice": 99.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 99.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 1,
+                "name": "Caramel Cinnabon",
+                "price": 55.0,
+                "total": 55.0,
+                "productId": "108984592",
+                "modifiable": false,
+                "orderItemId": "1982979403",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Dark Chocolate Molten Cake",
+                "price": 44.0,
+                "total": 44.0,
+                "productId": "109007542",
+                "modifiable": false,
+                "orderItemId": "1982979406",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 4.99
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 1.98
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T22:29:43.664Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9144",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_3f012c56-e966-51f5-8ef1-520f402ea11a",
+        "timestamp": "2022-06-10T22:39:05.483Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786143536",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1455321",
+            "driverName": "Ahmed Khaled Ahmed_TOP",
+            "pickupTime": "2022-06-10T23:12:20.412Z",
+            "dispatchedAt": "2022-06-10T23:17:45.769Z",
+            "deliveredAt": "2022-06-10T23:43:29.859Z"
+        },
+        "seenAt": "2022-06-10T23:03:21.140Z",
+        "deliverAt": "2022-06-10T23:34:05.349Z",
+        "expiresAt": "2022-06-10T23:11:20.518Z",
+        "promisedTime": "2022-06-10T23:34:05.349Z",
+        "acceptedAt": "2022-06-10T23:03:33.477Z",
+        "customer": {
+            "customerId": "18183702",
+            "phone": "+201112097964",
+            "firstName": "Abdel-rahman",
+            "lastName": "Atef"
+        },
+        "address": {
+            "street": "اسم الشارع: Kafr Tohormos Road ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "فيصل - الملكة",
+            "floor": "رقم الدور: ٣ ",
+            "apartment": "رقم الشقة: ١٢",
+            "building": "اسم أو رقم البناية: ٣٥٢ ",
+            "latitude": 30.018818,
+            "longitude": 31.171555,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 70.17,
+            "itemsTotalPrice": 59.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 59.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": "Nutella Chocolate Casserole  ",
+            "price": 48.0,
+            "total": 48.0,
+            "modifiers": [{
+                "amount": 1,
+                "name": "Ice Cream",
+                "price": 11.0,
+                "total": 11.0,
+                "productId": "108984588",
+                "modifiable": false,
+                "type": "EXTRA"
+            }],
+            "productId": "108984584",
+            "modifiable": false,
+            "orderItemId": "1983056372",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 9.99
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 1.18
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T23:34:05.349Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9145",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_c64101f2-1e4a-5e9f-bf4e-8719b6727d95",
+        "timestamp": "2022-06-10T22:41:58.572Z",
+        "state": "CANCELLED_BY_PLATFORM",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786145131",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1455321",
+            "driverName": "Ahmed Khaled Ahmed_TOP",
+            "pickupTime": "2022-06-10T23:08:58.719Z"
+        },
+        "deliverAt": "2022-06-10T23:30:08.470Z",
+        "expiresAt": "2022-06-11T01:18:58.452Z",
+        "promisedTime": "2022-06-10T23:18:58.452Z",
+        "customer": {
+            "customerId": "9941370",
+            "phone": "+201068631863",
+            "firstName": "Nancy",
+            "lastName": "Samwell"
+        },
+        "address": {
+            "street": "اسم الشارع: الحاج مصطفى أحمد ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - المنصوريه",
+            "floor": "رقم الدور: ٤ ",
+            "apartment": "رقم الشقة: ٣ ",
+            "building": "اسم أو رقم البناية: بيت رقم ٤ ",
+            "info": "علامة مميزة: جمب مسجد المغفره ",
+            "latitude": 29.990707,
+            "longitude": 31.144053,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 74.27,
+            "itemsTotalPrice": 66.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 66.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 2,
+            "name": "Nutella Chocolate Waffle",
+            "price": 0.0,
+            "total": 0.0,
+            "modifiers": [{
+                "amount": 1,
+                "name": "Medium",
+                "price": 33.0,
+                "total": 33.0,
+                "productId": "107599907",
+                "modifiable": false,
+                "type": "EXTRA"
+            }],
+            "productId": "107599906",
+            "modifiable": false,
+            "orderItemId": "1983060261",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 5.28
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 2.99
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "cancelReason": {
+            "custom": false,
+            "comment": "MISTAKE_ERROR",
+            "time": "2022-06-10T22:53:41.822Z",
+            "key": "MISTAKE_ERROR"
+        },
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-10T23:18:58.452Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9146",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "cancellationOwner": "CUSTOMER",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_84cc9f4b-b28a-5173-8b9f-02ee05b6f8b1",
+        "timestamp": "2022-06-11T00:16:46.586Z",
+        "state": "CANCELLED_BY_PLATFORM",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786180754",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "pickupTime": "2022-06-11T00:41:46.737Z"
+        },
+        "deliverAt": "2022-06-11T00:57:46.446Z",
+        "expiresAt": "2022-06-11T02:57:46.446Z",
+        "promisedTime": "2022-06-11T00:57:46.446Z",
+        "customer": {
+            "customerId": "21663511",
+            "phone": "+201151744206",
+            "firstName": "Salma ",
+            "lastName": "medhat"
+        },
+        "address": {
+            "street": "اسم الشارع: الهرم ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - العمرانية",
+            "floor": "رقم الدور: ٧ ",
+            "apartment": "رقم الشقة: 7",
+            "building": "اسم أو رقم البناية: 132 ",
+            "info": "علامة مميزة: ١٣٢ ",
+            "latitude": 29.992708,
+            "longitude": 31.157183,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 222.49,
+            "itemsTotalPrice": 210.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 210.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 4,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "107599907",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1983150529",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Dark Chocolate Molten Cake",
+                "price": 44.0,
+                "total": 44.0,
+                "productId": "109007542",
+                "modifiable": false,
+                "orderItemId": "1983150530",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Cinnabon Ice Cream Rolls",
+                "price": 34.0,
+                "total": 34.0,
+                "productId": "107601921",
+                "modifiable": false,
+                "orderItemId": "1983150531",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "cancelReason": {
+            "custom": false,
+            "comment": "MISTAKE_ERROR",
+            "time": "2022-06-11T00:18:16.982Z",
+            "key": "MISTAKE_ERROR"
+        },
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9147",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "cancellationOwner": "CUSTOMER",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_a8a8dc5e-ac4b-5eff-92e4-e04a8c512997",
+        "timestamp": "2022-06-11T00:19:31.148Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786181494",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1259472",
+            "driverName": "Ahmed Hamdy Mohamed Amin_MTA",
+            "pickupTime": "2022-06-11T00:41:09.415Z",
+            "dispatchedAt": "2022-06-11T00:50:53.475Z",
+            "deliveredAt": "2022-06-11T00:59:44.409Z"
+        },
+        "seenAt": "2022-06-11T00:27:10.222Z",
+        "deliverAt": "2022-06-11T01:03:31.046Z",
+        "expiresAt": "2022-06-11T00:35:09.553Z",
+        "promisedTime": "2022-06-11T01:03:31.046Z",
+        "acceptedAt": "2022-06-11T00:27:14.547Z",
+        "customer": {
+            "customerId": "21663511",
+            "phone": "+201151744206",
+            "firstName": "Salma ",
+            "lastName": "medhat"
+        },
+        "address": {
+            "street": "اسم الشارع: الهرم ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - العمرانية",
+            "floor": "رقم الدور: ٧ ",
+            "apartment": "رقم الشقة: 7",
+            "building": "اسم أو رقم البناية: 132 ",
+            "info": "علامة مميزة: ١٣٢ ",
+            "latitude": 29.992708,
+            "longitude": 31.157183,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 255.49,
+            "itemsTotalPrice": 243.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 243.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+                "amount": 5,
+                "name": "Nutella Chocolate Waffle",
+                "price": 0.0,
+                "total": 0.0,
+                "modifiers": [{
+                    "amount": 1,
+                    "name": "Medium",
+                    "price": 33.0,
+                    "total": 33.0,
+                    "productId": "107599907",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }],
+                "productId": "107599906",
+                "modifiable": false,
+                "orderItemId": "1983152439",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Cinnabon Ice Cream Rolls",
+                "price": 34.0,
+                "total": 34.0,
+                "productId": "107601921",
+                "modifiable": false,
+                "orderItemId": "1983152440",
+                "type": "PRODUCT"
+            },
+            {
+                "amount": 1,
+                "name": "Dark Chocolate Molten Cake",
+                "price": 44.0,
+                "total": 44.0,
+                "productId": "109007542",
+                "modifiable": false,
+                "orderItemId": "1983152441",
+                "type": "PRODUCT"
+            }
+        ],
+        "fees": [{
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 12.49
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 0.0
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9148",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_c2884b5d-ca85-567a-8e68-92ef7ca60eed",
+        "timestamp": "2022-06-11T00:19:31.481Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786181440",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1459347",
+            "driverName": "Gamal Kamal  Samer _ EL DAWLYA",
+            "pickupTime": "2022-06-11T00:33:06.759Z",
+            "dispatchedAt": "2022-06-11T00:35:53.842Z",
+            "deliveredAt": "2022-06-11T00:42:35.960Z"
+        },
+        "seenAt": "2022-06-11T00:24:08.302Z",
+        "deliverAt": "2022-06-11T00:56:31.362Z",
+        "expiresAt": "2022-06-11T00:32:07.133Z",
+        "promisedTime": "2022-06-11T00:56:31.362Z",
+        "acceptedAt": "2022-06-11T00:24:16.180Z",
+        "customer": {
+            "customerId": "10976898",
+            "phone": "+201112694327",
+            "firstName": "Abdelrahman",
+            "lastName": "Adel"
+        },
+        "address": {
+            "street": "اسم الشارع: Farouk El-Helw ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - مشعل",
+            "floor": "رقم الدور: 1 ",
+            "apartment": "رقم الشقة: 2",
+            "building": "اسم أو رقم البناية: 24 ",
+            "latitude": 29.9830484949349,
+            "longitude": 31.1500127613545,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": true,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 73.23,
+            "itemsTotalPrice": 62.0,
+            "paymentType": "ONLINE",
+            "paymentMethod": "CREDIT_CARD",
+            "riderPaysAtRestaurant": 0.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": "Lotus Cinnabon",
+            "price": 62.0,
+            "total": 62.0,
+            "productId": "134099052",
+            "modifiable": false,
+            "orderItemId": "1983152286",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 9.99
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 1.24
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9149",
+        "preparationCompleted": true,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_748021a0-addf-5a83-b173-19e16d82e76e",
+        "timestamp": "2022-06-11T00:50:59.535Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786188307",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1259472",
+            "driverName": "Ahmed Hamdy Mohamed Amin_MTA",
+            "pickupTime": "2022-06-11T01:22:08.533Z",
+            "dispatchedAt": "2022-06-11T01:23:11.170Z",
+            "deliveredAt": "2022-06-11T01:30:45.432Z"
+        },
+        "seenAt": "2022-06-11T01:11:09.276Z",
+        "deliverAt": "2022-06-11T01:32:59.410Z",
+        "expiresAt": "2022-06-11T01:19:08.632Z",
+        "promisedTime": "2022-06-11T01:32:59.410Z",
+        "acceptedAt": "2022-06-11T01:11:28.113Z",
+        "customer": {
+            "customerId": "11051600",
+            "phone": "+201226383713",
+            "firstName": "Ahmed",
+            "lastName": "Sallam Cinematography"
+        },
+        "address": {
+            "street": "اسم الشارع: كومباوند جراند فيل ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - العروبة",
+            "floor": "رقم الدور: 8 ",
+            "apartment": "رقم الشقة: 85",
+            "building": "اسم أو رقم البناية: A ",
+            "latitude": 29.980297,
+            "longitude": 31.160276,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": true,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 130.35,
+            "itemsTotalPrice": 118.0,
+            "paymentType": "ONLINE",
+            "paymentMethod": "CREDIT_CARD",
+            "riderPaysAtRestaurant": 0.0,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 2,
+            "name": "Blue Waffle ",
+            "price": 59.0,
+            "total": 118.0,
+            "productId": "108984604",
+            "modifiable": false,
+            "orderItemId": "1983170316",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 2.36
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Delivery Fee",
+                "value": 9.99
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "deliverAtBeforeDelay": "2022-06-11T01:32:59.410Z",
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9150",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    },
+    {
+        "id": "oma_9a142a9d-0edd-5e8f-81ee-d0059df3aad5",
+        "timestamp": "2022-06-11T01:21:59.569Z",
+        "state": "CLOSED",
+        "dispatchStateType": "UNDEFINED",
+        "trackingStateType": "NOT_TRACKED",
+        "platformKey": "TB_OT",
+        "globalEntityId": "HF_EG",
+        "externalRestaurantId": "510193",
+        "vendorName": "Waffle and Fruits -  Faisal",
+        "externalId": "786193781",
+        "test": false,
+        "preorder": false,
+        "guaranteed": false,
+        "transport": {
+            "type": "PICKUP_LOGISTICS",
+            "transportName": "HURRIER",
+            "driverId": "eg-1397204",
+            "driverName": "Ahmed Hamdy Awad_EL ABTAL",
+            "pickupTime": "2022-06-11T01:42:34.850Z",
+            "dispatchedAt": "2022-06-11T01:43:26.471Z",
+            "deliveredAt": "2022-06-11T01:59:38.505Z"
+        },
+        "seenAt": "2022-06-11T01:32:35.655Z",
+        "deliverAt": "2022-06-11T02:08:59.445Z",
+        "expiresAt": "2022-06-11T01:40:35.047Z",
+        "promisedTime": "2022-06-11T02:08:59.445Z",
+        "acceptedAt": "2022-06-11T01:32:50.485Z",
+        "customer": {
+            "customerId": "15426788",
+            "phone": "+201101234111",
+            "firstName": "mohamed",
+            "lastName": "nader"
+        },
+        "address": {
+            "street": "اسم الشارع: Eid Mostafa ",
+            "zip": " ",
+            "city": "القاهرة",
+            "area": "الهرم - محافظه الجيزه",
+            "floor": "رقم الدور: 10 ",
+            "apartment": "رقم الشقة: 32",
+            "building": "اسم أو رقم البناية: 11 ",
+            "latitude": 30.0134247989035,
+            "longitude": 31.1992812529206,
+            "distance": -1,
+            "geocodedManually": false
+        },
+        "payment": {
+            "paid": false,
+            "currency": "EGP",
+            "currencySymbol": "EGP",
+            "total": 91.59,
+            "itemsTotalPrice": 80.0,
+            "paymentType": "CASH",
+            "paymentMethod": "CASH",
+            "riderPaysAtRestaurant": 80.00000000000001,
+            "riderTip": 0,
+            "provideChangeFor": 0,
+            "currencyDecimals": 2
+        },
+        "items": [{
+            "amount": 1,
+            "name": "White Chocolate Waffle",
+            "price": 0.0,
+            "total": 0.0,
+            "modifiers": [{
+                    "amount": 1,
+                    "name": "Large",
+                    "price": 63.0,
+                    "total": 63.0,
+                    "productId": "108982885",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                },
+                {
+                    "amount": 1,
+                    "name": "Banana",
+                    "price": 6.0,
+                    "total": 6.0,
+                    "productId": "109576120",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                },
+                {
+                    "amount": 1,
+                    "name": "Blueberry",
+                    "price": 11.0,
+                    "total": 11.0,
+                    "productId": "109576130",
+                    "modifiable": false,
+                    "type": "EXTRA"
+                }
+            ],
+            "productId": "107599912",
+            "modifiable": false,
+            "orderItemId": "1983184619",
+            "type": "PRODUCT"
+        }],
+        "fees": [{
+                "name": "Delivery Fee",
+                "value": 9.99
+            },
+            {
+                "name": "Tourist Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Municipality Tax",
+                "value": 0.0
+            },
+            {
+                "name": "Talabat Charges",
+                "value": 0.0
+            },
+            {
+                "name": "Service Fee",
+                "value": 1.6
+            }
+        ],
+        "taxes": [{
+            "name": "VAT",
+            "value": 0.0,
+            "includedInPrice": true
+        }],
+        "canVoid": false,
+        "canDelay": false,
+        "corporate": false,
+        "shortCode": "9151",
+        "preparationCompleted": false,
+        "preparationCompletionSupported": true,
+        "accepter": "VENDOR",
+        "vendorTimeZone": "Africa/Cairo",
+        "platformName": "Talabat",
+        "acknowledged": true,
+        "itemUnavailabilityHandling": "CANCEL_ORDER"
+    }
+]

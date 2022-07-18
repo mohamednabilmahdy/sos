@@ -4,10 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "server": "nodemon --exec babel-node src/index.js \"  \"",
-        "client": "cd client && yarn serve",
-        "dev": "concurrently --names \"server,client\" \"yarn run server --silent\" \"yarn run client --silent\""
-    },
+        "start": "nodemon --exec babel-node src/index.js \"  \""
+          },
     "keywords": [],
     "author": "",
     "license": "ISC",

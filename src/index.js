@@ -39,7 +39,8 @@ const startServer = async() => {
         plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
         cors: {
             origin: ["http://localhost:4001/graphql",
-                "https://web.me.restaurant-partners.com"
+                "https://web.me.restaurant-partners.com",
+                "http://mesho.us-east-1.elasticbeanstalk.com/graphql"
             ],
         },
         context: async({ req }) => {
